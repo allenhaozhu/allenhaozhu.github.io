@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hao (Allen) Zhu "
+description              : &description "Ph.D Candidate in Australian National University"
+url                      : https://allenhaozhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "allenhaozhu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hao Zhu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My name is Hao Zhu (you can call me Allen), and I was a senior technical manager in China for JD.com. I received my bachelor's degree from Harbin Institute of Technology in 2008 and my master's degree in computer science from Beijing Normal University's national important Lab for cognitive neuroscience and learning in 2012. In the previous decade, a great deal of expertise has been gathered in domains and subjects such as Neuroimaging, Computational Neuroscience, Machine Learning, Computer Vision, Data Mining, and Natural Language Processing. I was leading a team working on financial applications of machine learning. Before to that, I worked as a research engineer specialising on computer vision-related applications, such as facial recognition. Currently, I am a Ph.D. candidate in graph machine learning at Australian National University."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=cpee-44AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Hao-Zhu-35"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

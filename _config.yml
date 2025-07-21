@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Hao (Allen) Zhu"
 title_separator          : "-"
 name                     : &name "Hao (Allen) Zhu "
-description              : &description "Ph.D Candidate in Australian National University"
+description              : &description "Machine Learning Researcher | Graph Neural Networks | Computer Vision | Data Mining"
 url                      : https://allenhaozhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allenhaozhu.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Zhu"
+  name             : "Dr. Hao (Allen) Zhu"
   avatar           : "profile.png"
-  bio              : "My name is Hao Zhu (you can call me Allen), and I was a senior technical manager in China for JD.com. I received my bachelor's degree from Harbin Institute of Technology in 2008 and my master's degree in computer science from Beijing Normal University's national important Lab for cognitive neuroscience and learning in 2012. In the previous decade, a great deal of expertise has been gathered in domains and subjects such as Neuroimaging, Computational Neuroscience, Machine Learning, Computer Vision, Data Mining, and Natural Language Processing. I was leading a team working on financial applications of machine learning. Before to that, I worked as a research engineer specialising on computer vision-related applications, such as facial recognition. Currently, I am a Ph.D. candidate in graph machine learning at Australian National University."
-  location         : "Location"
+  bio              : "I am a machine learning researcher with expertise in graph neural networks, computer vision, and data mining. I completed my Ph.D. at Australian National University, focusing on graph machine learning. Previously, I served as a senior technical manager at JD.com, leading teams on financial ML applications. I hold a B.S. from Harbin Institute of Technology (2008) and M.S. from Beijing Normal University (2012). My research spans neuroimaging, computational neuroscience, computer vision, and natural language processing, with extensive industry experience in AI applications."
+  location         : "Canberra, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cpee-44AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Hao-Zhu-35"# example: "https://www.researchgate.net/profile/yourprofile"

@@ -16,7 +16,7 @@ I am currently a Postdoctoral Fellow at Data61, CSIRO Australia's data science r
 
 ## Background
 
-I bring a unique combination of academic research expertise and industry leadership experience. Prior to my doctoral studies, I served as a senior technical manager at JD.com in China, where I led teams developing machine learning applications for financial services. This role allowed me to bridge the gap between cutting-edge research and real-world applications.
+I bring a unique combination of academic research expertise and industry leadership experience. Prior to my doctoral studies, I served as a senior technical manager at JD.com in China (2017-2019), where I led teams developing machine learning applications for financial services. Before that, I worked at 3M (2012-2017) focusing on face recognition and deep learning applications. These roles allowed me to bridge the gap between cutting-edge research and real-world applications.
 
 ## Education
 
@@ -38,10 +38,16 @@ My research spans multiple domains within artificial intelligence and machine le
 
 ## Industry Experience
 
-During my tenure at JD.com, I gained extensive experience in:
+During my industry experience, I gained extensive expertise in:
+
+**At JD.com (2017-2019):**
 - Leading cross-functional teams in AI product development
 - Implementing machine learning solutions at scale
 - Financial technology applications
-- Computer vision systems for commercial applications
+
+**At 3M (2012-2017):**
+- Face recognition and deep learning applications
+- Computer vision system development and optimization
+- Research and development in industrial AI applications
 
 I am passionate about advancing machine learning research while maintaining a strong connection to practical applications that can benefit society.

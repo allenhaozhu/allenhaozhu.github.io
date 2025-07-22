@@ -28,10 +28,15 @@ Work Experience
   * Research focus: Graph machine learning, spectral methods
   * Supervisor: Prof. Piotr Koniusz
 
-* Senior Technical Manager (2012-2020)
+* Senior Technical Manager (2017-2019)
   * JD.com, China
   * Led teams developing ML applications for financial services
-  * Managed computer vision systems and AI product development
+  * Managed AI product development and deployment at scale
+
+* Research Engineer (2012-2017)
+  * 3M Company
+  * Face recognition and deep learning applications
+  * Computer vision system development and optimization
   
 Research Skills
 ======

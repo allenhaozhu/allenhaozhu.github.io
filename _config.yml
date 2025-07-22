@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Hao (Allen) Zhu"
   avatar           : "profile.png"
-  bio              : "I am a Postdoctoral Fellow at Data61, CSIRO Australia, specializing in AI for Science (AI4Sci), graph neural networks, and machine learning. I completed my Ph.D. at Australian National University, focusing on graph machine learning. Previously, I served as a senior technical manager at JD.com, leading teams on financial ML applications. I hold a B.S. from Harbin Institute of Technology (2008) and M.S. from Beijing Normal University (2012). My research spans AI4Science, graph neural networks, protein analysis, and self-supervised learning."
+  bio              : "I am a Postdoctoral Fellow at Data61, CSIRO Australia, specializing in AI for Science (AI4Sci), graph neural networks, and machine learning. I completed my Ph.D. at Australian National University, focusing on graph machine learning. Previously, I served as a senior technical manager at JD.com (2017-2019) and worked at 3M on face recognition and deep learning (2012-2017). I hold a B.S. from Harbin Institute of Technology (2008) and M.S. from Beijing Normal University (2012). My research spans AI4Science, graph neural networks, protein analysis, and self-supervised learning."
   location         : "Sydney, Australia"
   employer         :
   pubmed           :

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Hao (Allen) Zhu - Academic Website</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background: #fff;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #eee;
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #2c3e50;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            color: #7f8c8d;
+            margin: 10px 0;
+        }
+        
+        .section {
+            margin: 40px 0;
+        }
+        
+        .section h2 {
+            color: #2c3e50;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+            font-size: 1.8em;
+        }
+        
+        .about {
+            font-size: 1.1em;
+            text-align: justify;
+        }
+        
+        .education-item, .experience-item {
+            margin: 15px 0;
+        }
+        
+        .education-item h3, .experience-item h3 {
+            margin: 0;
+            color: #34495e;
+        }
+        
+        .education-item p, .experience-item p {
+            margin: 5px 0;
+            color: #7f8c8d;
+        }
+        
+        .publication {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+        }
+        
+        .publication h3 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 1.1em;
+        }
+        
+        .publication .authors {
+            color: #7f8c8d;
+            font-style: italic;
+            margin: 5px 0;
+        }
+        
+        .publication .venue {
+            color: #27ae60;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        
+        .publication .citations {
+            color: #e74c3c;
+            font-weight: bold;
+            margin: 5px 0;
+        }
+        
+        .research-interests {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .research-tag {
+            background: #3498db;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        
+        .contact {
+            background: #ecf0f1;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .contact a {
+            color: #3498db;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .header h1 {
+                font-size: 2em;
+            }
+            .research-interests {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Dr. Hao (Allen) Zhu</h1>
+        <div class="subtitle">Machine Learning Researcher</div>
+        <div class="subtitle">Graph Neural Networks • Computer Vision • Data Mining</div>
+        <div class="subtitle">📍 Canberra, Australia</div>
+    </div>
+
+    <div class="section">
+        <h2>About</h2>
+        <div class="about">
+            <p>I am a machine learning researcher with expertise in graph neural networks, computer vision, and data mining. I recently completed my Ph.D. at Australian National University, focusing on graph machine learning.</p>
+            
+            <p>I bring a unique combination of academic research expertise and industry leadership experience. Prior to my doctoral studies, I served as a senior technical manager at JD.com in China, where I led teams developing machine learning applications for financial services.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <div class="education-item">
+            <h3>Ph.D. in Graph Machine Learning</h3>
+            <p>Australian National University</p>
+        </div>
+        <div class="education-item">
+            <h3>M.S. in Computer Science (2012)</h3>
+            <p>Beijing Normal University - National Key Laboratory for Cognitive Neuroscience and Learning</p>
+        </div>
+        <div class="education-item">
+            <h3>B.S. (2008)</h3>
+            <p>Harbin Institute of Technology</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Research Interests</h2>
+        <div class="research-interests">
+            <span class="research-tag">Graph Neural Networks</span>
+            <span class="research-tag">Computer Vision</span>
+            <span class="research-tag">Data Mining</span>
+            <span class="research-tag">Few-Shot Learning</span>
+            <span class="research-tag">Contrastive Learning</span>
+            <span class="research-tag">Neuroimaging</span>
+            <span class="research-tag">Natural Language Processing</span>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Selected Publications</h2>
+        
+        <div class="publication">
+            <h3>Simple Spectral Graph Convolution</h3>
+            <div class="authors">Hao Zhu, Piotr Koniusz</div>
+            <div class="venue">International Conference on Learning Representations (ICLR) 2021</div>
+            <div class="citations">421 citations</div>
+        </div>
+
+        <div class="publication">
+            <h3>COSTA: Covariance-Preserving Feature Augmentation for Graph Contrastive Learning</h3>
+            <div class="authors">Yizhen Zhang, Hao Zhu, Zhiqiang Song, Piotr Koniusz, Irwin King</div>
+            <div class="venue">ACM SIGKDD International Conference on Knowledge Discovery and Data Mining 2022</div>
+            <div class="citations">149 citations</div>
+        </div>
+
+        <div class="publication">
+            <h3>Spectral Feature Augmentation for Graph Contrastive Learning and Beyond</h3>
+            <div class="authors">Yizhen Zhang, Hao Zhu, Zhiqiang Song, Piotr Koniusz, Irwin King</div>
+            <div class="venue">Proceedings of the AAAI Conference on Artificial Intelligence 2023</div>
+            <div class="citations">108 citations</div>
+        </div>
+
+        <div class="publication">
+            <h3>EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning</h3>
+            <div class="authors">Hao Zhu, Piotr Koniusz</div>
+            <div class="venue">Conference on Computer Vision and Pattern Recognition (CVPR) 2022</div>
+            <div class="citations">80 citations</div>
+        </div>
+
+        <div class="publication">
+            <h3>Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement</h3>
+            <div class="authors">Hao Zhu, Piotr Koniusz</div>
+            <div class="venue">International Conference on Computer Vision and Pattern Recognition (CVPR) 2023</div>
+            <div class="citations">72 citations</div>
+        </div>
+
+        <div class="publication">
+            <h3>Contrastive Laplacian Eigenmaps</h3>
+            <div class="authors">Hao Zhu, Ke Sun, Piotr Koniusz</div>
+            <div class="venue">Conference on Neural Information Processing Systems (NeurIPS) 2021</div>
+            <div class="citations">58 citations</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Industry Experience</h2>
+        <div class="experience-item">
+            <h3>Senior Technical Manager</h3>
+            <p>JD.com, China</p>
+            <p>Led teams developing machine learning applications for financial services, computer vision systems, and AI product development at scale.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Contact</h2>
+        <div class="contact">
+            <a href="https://scholar.google.com/citations?user=cpee-44AAAAJ&hl=en" target="_blank">Google Scholar</a>
+            <a href="https://www.researchgate.net/profile/Hao-Zhu-35" target="_blank">ResearchGate</a>
+            <a href="https://github.com/allenhaozhu" target="_blank">GitHub</a>
+        </div>
+    </div>
+
+    <footer style="text-align: center; margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; color: #7f8c8d;">
+        <p>&copy; 2024 Dr. Hao (Allen) Zhu. All rights reserved.</p>
+    </footer>
+</body>
+</html>

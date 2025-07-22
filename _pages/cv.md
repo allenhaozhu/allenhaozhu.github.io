@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Graph Machine Learning, Australian National University, 2024
+* M.S. in Computer Science, Beijing Normal University, 2012
+  * National Key Laboratory for Cognitive Neuroscience and Learning
+* B.S., Harbin Institute of Technology, 2008
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-Present: Postdoctoral Fellow
+  * Data61, CSIRO Australia, Sydney
+  * Research focus: AI for Science (AI4Sci), graph neural networks, machine learning algorithms
+  * Developing novel approaches for scientific applications and complex data structures
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D. Student: Research Assistant (2020-2024)
+  * Australian National University, Canberra
+  * Research focus: Graph machine learning, spectral methods
+  * Supervisor: Prof. Piotr Koniusz
+
+* Senior Technical Manager (2012-2020)
+  * JD.com, China
+  * Led teams developing ML applications for financial services
+  * Managed computer vision systems and AI product development
   
-Skills
+Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI for Science (AI4Sci)
+  * Protein Fitness Landscape Analysis
+  * Scientific Machine Learning
+  * Computational Biology Applications
+* Machine Learning
+  * Graph Neural Networks
+  * Self-Supervised Learning
+  * Few-Shot Learning
+  * Contrastive Learning
+* Computer Vision
+  * Image Retrieval
+  * Visual Saliency Detection
+  * Deep Hashing Methods
+* Data Mining & NLP
+  * Document Retrieval
+  * Large-scale Data Analysis
+  * Natural Language Processing
 
 Publications
 ======

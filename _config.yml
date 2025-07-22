@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Hao (Allen) Zhu"
 title_separator          : "-"
 name                     : &name "Hao (Allen) Zhu "
-description              : &description "Machine Learning Researcher | Graph Neural Networks | Computer Vision | Data Mining"
+description              : &description "Postdoctoral Fellow at Data61, CSIRO | AI4Science | Graph Neural Networks | Machine Learning"
 url                      : https://allenhaozhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "allenhaozhu.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Hao (Allen) Zhu"
   avatar           : "profile.png"
-  bio              : "I am a machine learning researcher with expertise in graph neural networks, computer vision, and data mining. I completed my Ph.D. at Australian National University, focusing on graph machine learning. Previously, I served as a senior technical manager at JD.com, leading teams on financial ML applications. I hold a B.S. from Harbin Institute of Technology (2008) and M.S. from Beijing Normal University (2012). My research spans neuroimaging, computational neuroscience, computer vision, and natural language processing, with extensive industry experience in AI applications."
-  location         : "Canberra, Australia"
+  bio              : "I am a Postdoctoral Fellow at Data61, CSIRO Australia, specializing in AI for Science (AI4Sci), graph neural networks, and machine learning. I completed my Ph.D. at Australian National University, focusing on graph machine learning. Previously, I served as a senior technical manager at JD.com, leading teams on financial ML applications. I hold a B.S. from Harbin Institute of Technology (2008) and M.S. from Beijing Normal University (2012). My research spans AI4Science, graph neural networks, protein analysis, and self-supervised learning."
+  location         : "Sydney, Australia"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cpee-44AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Hao-Zhu-35"# example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

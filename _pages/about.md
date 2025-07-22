@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Dr. Hao (Allen) Zhu, a machine learning researcher specializing in graph neural networks, computer vision, and data mining. I recently completed my Ph.D. at Australian National University, where I focused on advancing the field of graph machine learning.
+Welcome! I am Dr. Hao (Allen) Zhu, a Postdoctoral Fellow at Data61, CSIRO Australia in Sydney. I specialize in AI for Science (AI4Sci), graph neural networks, and machine learning. I completed my Ph.D. at Australian National University, where I focused on advancing the field of graph machine learning.
+
+## Current Position
+
+I am currently a Postdoctoral Fellow at Data61, CSIRO Australia's data science research institute, located in Sydney. My research focuses on AI for Science (AI4Sci), advancing graph neural networks, and developing novel machine learning algorithms for scientific applications and complex data structures.
 
 ## Background
 
@@ -25,11 +29,12 @@ I bring a unique combination of academic research expertise and industry leaders
 
 My research spans multiple domains within artificial intelligence and machine learning:
 
+- **AI for Science (AI4Sci)**: Applying machine learning to scientific discovery and research
 - **Graph Neural Networks**: Developing novel architectures and algorithms for learning on graph-structured data
+- **Protein Analysis**: Computational methods for protein fitness landscapes and design
 - **Computer Vision**: Applications in facial recognition and visual pattern recognition
-- **Data Mining**: Large-scale data analysis and pattern discovery
-- **Neuroimaging & Computational Neuroscience**: Brain imaging analysis and computational models
-- **Natural Language Processing**: Text analysis and language understanding
+- **Self-Supervised Learning**: Contrastive learning and representation learning methods
+- **Few-Shot Learning**: Learning with limited data and transductive approaches
 
 ## Industry Experience
 
